@@ -1,0 +1,9 @@
+#EXTM3U
+
+
+#EXTINF:0,1 - TF1 (TNT)
+rtsp://192.168.0.XXX/fbxdvb/stream?tsid=6&nid=8442&sid=1537&frontend=1
+
+
+#EXTINF:0,2 - France 2 (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=201&flavour=sd
